@@ -20,4 +20,4 @@
 ###
 
 
-![snake gif](https://github.com/34-ata/34-ata/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/34-ata/34-ata/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
