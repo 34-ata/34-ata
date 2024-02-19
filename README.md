@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/34-ata/34-ata/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/34-ata/34-ata/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
