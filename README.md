@@ -20,7 +20,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/34-ata/34-ata/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ###
