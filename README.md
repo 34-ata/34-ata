@@ -25,5 +25,5 @@
 
 ###
 
-[![faata's 42 stats](https://badge.mediaplus.ma/greenbinary/faata?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![](https://komarev.com/ghpvc/?username=34-ata&style=for-the-badge)
 ![snake gif](https://github.com/34-ata/34-ata/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
