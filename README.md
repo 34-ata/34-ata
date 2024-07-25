@@ -10,7 +10,7 @@
 ###
 <h2> 🧰 Languages and Tools </h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cmake,py,debian,linux,kali,bash,vim,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=c,py,debian,linux,kali,bash,vim,vscode,notion" />
   <img width="12" />
 </div>
 
