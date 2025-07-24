@@ -82,9 +82,9 @@
 
 | Project | Status | Language | Score |
 |---------|--------|----------|--------|
-| Libft | ✅ Completed | C | 125/100 |
+| Libft | ✅ Completed | C | 125/125 |
 | ft_printf | ✅ Completed | C | 100/100 |
-| get_next_line | ✅ Completed | C | 125/100 |
+| get_next_line | ✅ Completed | C | 125/125 |
 | Born2beroot | ✅ Completed | System Admin | 100/100 |
 | pipex | ✅ Completed | C | 100/100 |
 | push_swap | ✅ Completed | C | 100/100 |
