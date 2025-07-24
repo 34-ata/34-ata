@@ -90,7 +90,7 @@
 | push_swap | ✅ Completed | C | 100/100 |
 | minishell | ✅ Completed | C | 100/100 |
 | webserv | ✅ Completed | C++ | 100/100 |
-| Inception | 🔄 In Progress | - | - |
+| Inception | 🔄 In Progress | System Administration | - |
 
 </div>
 
