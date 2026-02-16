@@ -49,7 +49,7 @@
 <img src="https://skillicons.dev/icons?i=linux,debian,kali,vim,vscode,git,docker,nginx" alt="Systems & Tools" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgresql,sqlite" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,sqlite" alt="Backend & Databases" />
 
 </div>
 
