@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![ft_transcendence](https://github-readme-stats.vercel.app/api/pin/?username=34-ata&repo=ft_transendence&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/34-ata/ft_transcendence)
+[![ft_transcendence](https://github-readme-stats.vercel.app/api/pin/?username=34-ata&repo=ft_transendence&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/34-ata/ft_transendence)
 [![WebServ](https://github-readme-stats.vercel.app/api/pin/?username=34-ata&repo=webserv&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/34-ata/webserv)
 [![Inception](https://github-readme-stats.vercel.app/api/pin/?username=34-ata&repo=Inception&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/34-ata/Inception)
 [![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=34-ata&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/34-ata/minishell)
